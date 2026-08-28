@@ -231,22 +231,22 @@ local Library = {
     HudRegistry = {};
 
     -- colors and font --
-    FontColor = Color3.fromRGB(255, 255, 255);
-    MainColor = Color3.fromRGB(28, 28, 28);
-    BackgroundColor = Color3.fromRGB(20, 20, 20);
+    FontColor = Color3.fromRGB(220, 220, 230);
+    MainColor = Color3.fromRGB(22, 22, 30);
+    BackgroundColor = Color3.fromRGB(14, 14, 20);
 
-    AccentColor = Color3.fromRGB(0, 85, 255);
-    DisabledAccentColor = Color3.fromRGB(142, 142, 142);
+    AccentColor = Color3.fromRGB(120, 60, 220);
+    DisabledAccentColor = Color3.fromRGB(100, 100, 120);
 
-    OutlineColor = Color3.fromRGB(50, 50, 50);
-    DisabledOutlineColor = Color3.fromRGB(70, 70, 70);
+    OutlineColor = Color3.fromRGB(55, 45, 75);
+    DisabledOutlineColor = Color3.fromRGB(65, 60, 80);
 
-    DisabledTextColor = Color3.fromRGB(142, 142, 142);
+    DisabledTextColor = Color3.fromRGB(110, 105, 130);
 
-    RiskColor = Color3.fromRGB(255, 50, 50);
+    RiskColor = Color3.fromRGB(220, 45, 75);
 
     Black = Color3.new(0, 0, 0);
-    Font = Enum.Font.Code,
+    Font = Enum.Font.GothamBold,
 
     -- frames --
     OpenedFrames = {};
